@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livres>
+    <livre id="1">
+        <titre>Olivier Twist</titre>
+        <auteur>DICKENS Charles</auteur>
+        <genre>Roman</genre>
+        <editeur>Editions de l'Erable</editeur>
+        <disponible>non</disponible>
+    </livre>
+
+    <livre id="2">
+        <titre>Les Misérables (T1)</titre>
+        <auteur>HUGO Victor</auteur>
+        <genre>Roman</genre>
+        <editeur>Flammarion</editeur>
+        <disponible>oui</disponible>
+    </livre>
+
+    <livre id="3">
+        <titre>Olivier Twist</titre>
+        <auteur>DICKENS Charles</auteur>
+        <genre>Roman</genre>
+        <editeur>Editions de l'Erable</editeur>
+        <disponible>non</disponible>
+    </livre>
+
+    <livre id="4">
+        <titre>Les Misérables (T1)</titre>
+        <auteur>HUGO Victor</auteur>
+        <genre>Roman</genre>
+        <editeur>Flammarion</editeur>
+        <disponible>oui</disponible>
+    </livre>
+
+    <livre id="5">
+        <titre>Olivier Twist</titre>
+        <auteur>DICKENS Charles</auteur>
+        <genre>Roman</genre>
+        <editeur>Editions de l'Erable</editeur>
+        <disponible>non</disponible>
+    </livre>
+
+    <livre id="6">
+        <titre>Les Misérables (T1)</titre>
+        <auteur>HUGO Victor</auteur>
+        <genre>Roman</genre>
+        <editeur>Flammarion</editeur>
+        <disponible>oui</disponible>
+    </livre>
+
+    <livre id="7">
+        <titre>Olivier Twist</titre>
+        <auteur>DICKENS Charles</auteur>
+        <genre>Roman</genre>
+        <editeur>Editions de l'Erable</editeur>
+        <disponible>non</disponible>
+    </livre>
+
+    <livre id="8">
+        <titre>Les Misérables (T1)</titre>
+        <auteur>HUGO Victor</auteur>
+        <genre>Roman</genre>
+        <editeur>Flammarion</editeur>
+        <disponible>oui</disponible>
+    </livre>
+
+    <livre id="9">
+        <titre>Olivier Twist</titre>
+        <auteur>DICKENS Charles</auteur>
+        <genre>Roman</genre>
+        <editeur>Editions de l'Erable</editeur>
+        <disponible>non</disponible>
+    </livre>
+
+    <livre id="10">
+        <titre>Les Misérables (T1)</titre>
+        <auteur>HUGO Victor</auteur>
+        <genre>Roman</genre>
+        <editeur>Flammarion</editeur>
+        <disponible>oui</disponible>
+    </livre>
+
+    <livre id="11">
+        <titre>Olivier Twist</titre>
+        <auteur>DICKENS Charles</auteur>
+        <genre>Roman</genre>
+        <editeur>Editions de l'Erable</editeur>
+        <disponible>non</disponible>
+    </livre>
+
+    <livre id="12">
+        <titre>Les Misérables (T1)</titre>
+        <auteur>HUGO Victor</auteur>
+        <genre>Roman</genre>
+        <editeur>Flammarion</editeur>
+        <disponible>oui</disponible>
+    </livre>
+
+    <livre id="13">
+        <titre>Olivier Twist</titre>
+        <auteur>DICKENS Charles</auteur>
+        <genre>Roman</genre>
+        <editeur>Editions de l'Erable</editeur>
+        <disponible>non</disponible>
+    </livre>
+
+    <livre id="14">
+        <titre>Les Misérables (T1)</titre>
+        <auteur>HUGO Victor</auteur>
+        <genre>Roman</genre>
+        <editeur>Flammarion</editeur>
+        <disponible>oui</disponible>
+    </livre>
+
+    <livre id="15">
+        <titre>Olivier Twist</titre>
+        <auteur>DICKENS Charles</auteur>
+        <genre>Roman</genre>
+        <editeur>Editions de l'Erable</editeur>
+        <disponible>non</disponible>
+    </livre>
+
+    <livre id="16">
+        <titre>Les Misérables (T1)</titre>
+        <auteur>HUGO Victor</auteur>
+        <genre>Roman</genre>
+        <editeur>Flammarion</editeur>
+        <disponible>oui</disponible>
+    </livre>
+
+    <livre id="17">
+        <titre>Olivier Twist</titre>
+        <auteur>DICKENS Charles</auteur>
+        <genre>Roman</genre>
+        <editeur>Editions de l'Erable</editeur>
+        <disponible>non</disponible>
+    </livre>
+
+    <livre id="18">
+        <titre>Les Misérables (T1)</titre>
+        <auteur>HUGO Victor</auteur>
+        <genre>Roman</genre>
+        <editeur>Flammarion</editeur>
+        <disponible>oui</disponible>
+    </livre>
+
+    <livre id="19">
+        <titre>Olivier Twist</titre>
+        <auteur>DICKENS Charles</auteur>
+        <genre>Roman</genre>
+        <editeur>Editions de l'Erable</editeur>
+        <disponible>non</disponible>
+    </livre>
+
+    <livre id="20">
+        <titre>Les Misérables (T1)</titre>
+        <auteur>HUGO Victor</auteur>
+        <genre>Roman</genre>
+        <editeur>Flammarion</editeur>
+        <disponible>oui</disponible>
+    </livre>
+
+    <livre id="21">
+        <titre>Olivier Twist</titre>
+        <auteur>DICKENS Charles</auteur>
+        <genre>Roman</genre>
+        <editeur>Editions de l'Erable</editeur>
+        <disponible>non</disponible>
+    </livre>
+
+    <livre id="22">
+        <titre>Les Misérables (T1)</titre>
+        <auteur>HUGO Victor</auteur>
+        <genre>Roman</genre>
+        <editeur>Flammarion</editeur>
+        <disponible>oui</disponible>
+    </livre>
+
+    <livre id="23">
+        <titre>Olivier Twist</titre>
+        <auteur>DICKENS Charles</auteur>
+        <genre>Roman</genre>
+        <editeur>Editions de l'Erable</editeur>
+        <disponible>non</disponible>
+    </livre>
+
+    <livre id="24">
+        <titre>Les Misérables (T1)</titre>
+        <auteur>HUGO Victor</auteur>
+        <genre>Roman</genre>
+        <editeur>Flammarion</editeur>
+        <disponible>oui</disponible>
+    </livre>
+
+    <livre id="1">
+        <titre>Olivier Twist</titre>
+        <auteur>DICKENS Charles</auteur>
+        <genre>Roman</genre>
+        <editeur>Editions de l'Erable</editeur>
+        <disponible>non</disponible>
+    </livre>
+
+    <livre id="25">
+        <titre>Les Misérables (T1)</titre>
+        <auteur>HUGO Victor</auteur>
+        <genre>Roman</genre>
+        <editeur>Flammarion</editeur>
+        <disponible>oui</disponible>
+    </livre>
+
+    <livre id="26">
+        <titre>Olivier Twist</titre>
+        <auteur>DICKENS Charles</auteur>
+        <genre>Roman</genre>
+        <editeur>Editions de l'Erable</editeur>
+        <disponible>non</disponible>
+    </livre>
+
+    <livre id="27">
+        <titre>Les Misérables (T1)</titre>
+        <auteur>HUGO Victor</auteur>
+        <genre>Roman</genre>
+        <editeur>Flammarion</editeur>
+        <disponible>oui</disponible>
+    </livre>
+
+    <livre id="28">
+        <titre>Olivier Twist</titre>
+        <auteur>DICKENS Charles</auteur>
+        <genre>Roman</genre>
+        <editeur>Editions de l'Erable</editeur>
+        <disponible>non</disponible>
+    </livre>
+
+    <livre id="29">
+        <titre>Les Misérables (T1)</titre>
+        <auteur>HUGO Victor</auteur>
+        <genre>Roman</genre>
+        <editeur>Flammarion</editeur>
+        <disponible>oui</disponible>
+    </livre>
+
+    <livre id="30">
+        <titre>Olivier Twist</titre>
+        <auteur>DICKENS Charles</auteur>
+        <genre>Roman</genre>
+        <editeur>Editions de l'Erable</editeur>
+        <disponible>non</disponible>
+    </livre>
+</livres>
